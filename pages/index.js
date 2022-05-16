@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>EVENT HORIZON</title>
+        <title>PATH INTEGRAL</title>
         <meta name="description" content="Imagination>0" />
         <link rel="icon" href="/PI.png" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          PATH <a href="https://path-integral.com">INTEGRAL</a>
+          META<a href="https://path-integral.com">VERSE</a>
         </h1>
 
         <p className={styles.description}>
