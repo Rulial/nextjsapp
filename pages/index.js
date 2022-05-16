@@ -46,7 +46,7 @@ export default function Home() {
           >
             <h2>Say Hi! &rarr;</h2>
             <p>
-              Want to know more or contribute? hello@path-integral.com
+              Want to know more?   hello@path-integral.com
             </p>
           </a>
         </div>
@@ -60,7 +60,7 @@ export default function Home() {
         >
           Powered by{' '}
           <span className={styles.logo}>
-            <Image src="/PIL04.png" alt="PI LOGO" width={72} height={20} />
+            Path Integral
           </span>
         </a>
       </footer>
