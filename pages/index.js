@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 
+
 export default function Home() {
   return (
     <div className={styles.container}>
@@ -10,6 +11,8 @@ export default function Home() {
         <meta name="description" content="Imagination>0" />
         <link rel="icon" href="/PI.png" />
       </Head>
+      
+
 
       <main className={styles.main}>
         <h1 className={styles.title}>
@@ -21,6 +24,7 @@ export default function Home() {
           <code className={styles.code}><br></br>shall be up and running soon...</code>
         </p> 
 
+        
         <div className={styles.grid}>
           <a href="https://path-integral.com" className={styles.card}>
             <h2>Event Horizon &rarr;</h2>
@@ -60,7 +64,7 @@ export default function Home() {
         >
           Powered by{' '}
           <span className={styles.logo}>
-            Path Integral
+           VERCEL
           </span>
         </a>
       </footer>
