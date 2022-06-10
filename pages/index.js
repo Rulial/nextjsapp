@@ -37,7 +37,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://path-integral.com"
+            href="https://swumr.xyz"
             className={styles.card}
           >
             <h2>SWUMR &rarr;</h2>
@@ -45,7 +45,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://swumr.xyz"
+            href="https://path-integral.com"
             className={styles.card}
           >
             <h2>Say Hi! &rarr;</h2>
