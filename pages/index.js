@@ -33,7 +33,7 @@ export default function Home() {
 
           <a href="https://path-integral.com" className={styles.card}>
             <h2>Metagame &rarr;</h2>
-            <p>Find in-depth information about features and API.</p>
+            <p>Learn to earn in bit =pixel Augmented Reality.</p>
           </a>
 
           <a
@@ -41,11 +41,11 @@ export default function Home() {
             className={styles.card}
           >
             <h2>SWUMR &rarr;</h2>
-            <p>Discover our Defi protocol for this eco system.</p>
+            <p>Discover our Defi protocol's technical paper. </p>
           </a>
 
           <a
-            href="https://path-integral.com"
+            href="https://swumr.xyz"
             className={styles.card}
           >
             <h2>Say Hi! &rarr;</h2>
