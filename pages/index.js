@@ -41,7 +41,7 @@ export default function Home() {
             className={styles.card}
           >
             <h2>SWUMR &rarr;</h2>
-            <p>Discover our Defi protocol's technical paper. </p>
+            <p>Discover our Defi protocols technical paper. </p>
           </a>
 
           <a
