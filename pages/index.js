@@ -28,7 +28,7 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="https://path-integral.com" className={styles.card}>
             <h2>Event Horizon &rarr;</h2>
-            <p>Find in-depth information about features and API.</p>
+            <p>Find information about our ecosystem and API.</p>
           </a>
 
           <a href="https://path-integral.com" className={styles.card}>
