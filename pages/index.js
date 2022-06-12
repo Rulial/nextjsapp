@@ -33,7 +33,7 @@ export default function Home() {
 
           <a href="https://path-integral.com" className={styles.card}>
             <h2>Metagame &rarr;</h2>
-            <p>Learn to earn in bit =pixel Augmented Reality.</p>
+            <p>Learn to earn in bit = pixel Augmented Reality.</p>
           </a>
 
           <a
@@ -41,7 +41,7 @@ export default function Home() {
             className={styles.card}
           >
             <h2>SWUMR &rarr;</h2>
-            <p>Discover our Defi protocols technical paper. </p>
+            <p> A DEX providing maximum value to its users. </p>
           </a>
 
           <a
