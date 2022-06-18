@@ -41,7 +41,7 @@ export default function Home() {
             className={styles.card}
           >
             <h2>SWUMR &rarr;</h2>
-            <p> A DEX providing maximum value to its users. </p>
+            <p> A DEX providing maximum value for creative projects. </p>
           </a>
 
           <a
