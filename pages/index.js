@@ -26,12 +26,12 @@ export default function Home() {
 
         
         <div className={styles.grid}>
-          <a href="https://path-integral.com" className={styles.card}>
+          <a href="https://docs.path-integral.com" className={styles.card}>
             <h2>Event Horizon &rarr;</h2>
             <p>Find information about our ecosystem and API.</p>
           </a>
 
-          <a href="https://path-integral.com" className={styles.card}>
+          <a href="https://docs.path-integral.com/Ecosystem/Metagame" className={styles.card}>
             <h2>Metagame &rarr;</h2>
             <p>Learn to earn in bit = pixel Augmented Reality.</p>
           </a>
