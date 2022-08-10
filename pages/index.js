@@ -33,7 +33,7 @@ export default function Home() {
 
           <a href="https://docs.path-integral.com/Ecosystem/Metagame" className={styles.card}>
             <h2>Metagame &rarr;</h2>
-            <p>a game that is playing itself.</p>
+            <p>a game that is playing itself for The Metaverse.</p>
           </a>
 
           <a
