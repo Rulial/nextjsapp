@@ -33,7 +33,7 @@ export default function Home() {
 
           <a href="https://docs.path-integral.com/Ecosystem/Metagame" className={styles.card}>
             <h2>Metagame &rarr;</h2>
-            <p>Learn to earn in bit = pixel Augmented Reality.</p>
+            <p>a game that is playing itself.</p>
           </a>
 
           <a
