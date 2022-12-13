@@ -28,12 +28,12 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="https://docs.path-integral.com" className={styles.card}>
             <h2>Event Horizon &rarr;</h2>
-            <p>Find information about our ecosystem and API.</p>
+            <p>a versatile backend powering the metagame.  </p>
           </a>
 
           <a href="https://docs.path-integral.com/Ecosystem/Metagame" className={styles.card}>
             <h2>Metagame &rarr;</h2>
-            <p>a game that is playing itself for The Metaverse.</p>
+            <p>a game that is playing itself in The Metaverse.</p>
           </a>
 
           <a
@@ -41,7 +41,7 @@ export default function Home() {
             className={styles.card}
           >
             <h2>SWUMR &rarr;</h2>
-            <p> A DEX providing maximum value for creative projects. </p>
+            <p>a decentralised bank to help you maintain the balance. </p>
           </a>
 
           <a
